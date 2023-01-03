@@ -46,4 +46,4 @@
 
 + Restore Device
 
-## Contact me in twitter: https://twitter.com/rungs99
+## Contact me in twitter: https://twitter.com/ios_am1ta
